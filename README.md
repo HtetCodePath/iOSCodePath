@@ -13,6 +13,9 @@ The following **required** functionality is completed:
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
 
+### Video Walkthrough
+https://www.loom.com/share/9d714ab5bcaf481b9cbce9c805b34194
+
 ## App Brainstorming (Step 4)
 
 ### Discord
